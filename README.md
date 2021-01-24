@@ -15,4 +15,4 @@ STUACM专题笔记+训练日记+提问答疑板块
 
 [训练日记](#训练日记)
 
-[提问答疑板块](#提问答疑板块)
+[提问答疑板块](https://github.com/TaoistPriestC/STUACM/issues)
