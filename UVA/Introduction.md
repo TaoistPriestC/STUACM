@@ -1,3 +1,5 @@
+### 问题清单
+
 | I/O + Sequences Only `(3/3)`                                 |       |                        |
 | ------------------------------------------------------------ | ----- | ---------------------- |
 | ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/10071) \| [discuss](http://onlinejudge.org/board/search.php?keywords=10071) [10071](http://uva.onlinejudge.org/external/100/10071.pdf) - [Back to High School Physics](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1012) | Lev 0 | **`✔ 0.000s/6182`**    |
@@ -29,3 +31,7 @@
 | ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/12503) \| [discuss](http://onlinejudge.org/board/search.php?keywords=12503) [12503](http://uva.onlinejudge.org/external/125/12503.pdf) - [Robot Instructions](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947) | Lev 2 | **`✔ 0.000s/3484(1)`** |
 | ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/12658) \| [discuss](http://onlinejudge.org/board/search.php?keywords=12658) [12658](http://uva.onlinejudge.org/external/126/12658.pdf) - [Character Recognition?](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4396) | Lev 4 | **`✔ 0.000s/204(1)`**  |
 | ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/12696) \| [discuss](http://onlinejudge.org/board/search.php?keywords=12696) [12696](http://uva.onlinejudge.org/external/126/12696.pdf) - [Cabin Baggage](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4434) | Lev 3 | **`✔ 0.000s/1072(1)`** |
+
+
+
+### 部分题目分析
