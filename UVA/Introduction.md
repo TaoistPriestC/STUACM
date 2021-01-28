@@ -1,4 +1,4 @@
-### 问题清单
+## 问题清单
 
 | I/O + Sequences Only `(3/3)`                                 |       |                        |
 | ------------------------------------------------------------ | ----- | ---------------------- |
@@ -34,4 +34,42 @@
 
 
 
-### 经典题目分析
+## 经典题目分析
+
+
+### UVA12503
+
+使用 `cin` 读入数据的时候，会自动跳过换行符，但是此时换行符依然留在缓冲区当中，假如`cin` 读完一个整数，紧接着再用`getline`读入一个字符串，由于`getlien`不跳过空白符，且在遇到换行符之后立即结束的特性，此时得到的字符串是一个空串。另外，有些时候不得不用`scanf`进行读取，此时获取一行可以写成 `scanf("%[^\n]", &str);` 不过，对于本题来说，遇到 `SAME AS i` 这样的指令，其实并应该纠结于是否读入一整行，我们完全可以通常读入两个字符串的方式去掉`SAME`、`AS` 然后再读一个整数`i`即可，比起读入一整行再分割字符串从中提取整数，这样方便得多。
+ 另外，由于输入的命令非常固定，且其第一个字符都不相同，因此我们只需对其第一个字符进行判断即可，不需要对整个字符串进行比对。
+ ```C++
+ #include "bits/stdc++.h"
+#include <iomanip>
+using namespace std;
+
+int kase,t,n,ans;
+int main(){
+    string s;
+    vector<int> command;
+    cin>>kase;
+    while(kase--){
+        cin>>n;
+        command.resize(n+1,0);
+        ans = 0;
+        for(int i = 1;i<=n;i++){
+            cin>>s;
+            if(s[0]=='L'){
+                command[i] = -1;
+            }else if(s[0]=='R'){
+                command[i] =  1;
+            }else{
+                cin>>s>>t;
+                command[i] = command[t];
+            }
+            ans+=command[i];
+        }
+        cout<<ans<<endl;
+    }
+    
+    return 0;    
+}
+ ```
