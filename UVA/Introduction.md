@@ -71,4 +71,49 @@ int main(){
     
     return 0;    
 }
- ```
+```
+
+
+
+
+### UVA12658
+　　这道题看起来挺吓人的，比较测样样例有够复杂，但是因为输入的数字其实并不多，只有三个，所以我们只需要抓住一些局部特征，对其进行判断即可。
+　　个人感觉最坑爹的地方在于这句 “The input contains only one test case, consisting of 6 lines.” 但实际上并非只有一个测试样例，所以没有写成`while-scanf`形式输入，导致结果 WA 几次。这句话实际是在说，每一组测试的数据只包含一个样例。简单来说：多组数据、每组一个样例。这道模拟题告诉我们，需要区分数据与样例的区别。总之，OJ题目都默认多组数据。
+
+```c++
+#include "bits/stdc++.h"
+#include <iomanip>
+using namespace std;
+
+int kase,t,n;
+char str[5][40];
+
+bool testCol(int col,char ch){
+    bool flag = true;
+    for(int i = 0;i<5;i++){
+        flag &= (str[i][col]==ch);
+    }
+    return flag;
+}
+
+int main(){   
+    while(scanf("%d",&n)!=EOF){
+        for(int i = 0;i<5;i++){
+            scanf("%s",str[i]);
+        }
+    
+        for(int i = 0;i<4*n;i+=4){
+            if(testCol(i+1,'*')){
+                printf("%d",1);
+            }else if(testCol(i+2,'*')){
+                printf("%d",3);
+            }else{
+                printf("%d",2);
+            }
+        }
+        printf("\n");
+    }
+    
+    return 0;    
+}
+```
