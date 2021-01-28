@@ -28,5 +28,5 @@ STUACM专题笔记+训练日记+提问答疑板块
 - Team Work (for IPCP)
 
 
-[Click here to Train typing!](https://www.typingtest.com/)　
-[Click here to Train Coding!](https://onlinejudge.org/)　
+[Click here to Train typing!](https://www.typingtest.com/)  
+[Click here to Train Coding!](https://onlinejudge.org/)
