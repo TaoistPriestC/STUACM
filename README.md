@@ -17,3 +17,11 @@ STUACM专题笔记+训练日记+提问答疑板块
 
 [提问答疑板块](https://github.com/TaoistPriestC/STUACM/issues)
 
+[Tips]
+- Type Code Faster and [Train typing!](https://www.typingtest.com/)
+- Quickly Indentify Problem Types
+- Do Algorithm Analysis
+- Master Programming Languages
+- Master the Art of Testing Code
+- Practice and More Practice
+- Team Work (for IPCP)
