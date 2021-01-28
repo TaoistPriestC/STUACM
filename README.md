@@ -19,12 +19,12 @@ STUACM专题笔记+训练日记+提问答疑板块
 
 
 ### The Tips given by the Book CP4
- [Train typing!](https://www.typingtest.com/) / [Train Coding!](https://onlinejudge.org/)
-- Type Code Faster and
+- Team Work (for IPCP)
 - Quickly Indentify Problem Types
 - Do Algorithm Analysis
 - Master Programming Languages
 - Master the Art of Testing Code
-- Practice and More Practice
-- Team Work (for IPCP)
+- Type Code Faster [Click here to Train typing!](https://www.typingtest.com/)
+- Practice and More Practice [Click here to Train Coding!](https://onlinejudge.org/)
+
 
