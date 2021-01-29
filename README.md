@@ -20,7 +20,7 @@ STUACM专题笔记+训练日记+提问答疑板块
 [提问答疑板块](https://github.com/TaoistPriestC/STUACM/issues)
 
 [本书提供的建议与资源](#本书提供的建议与资源)
-- ##### The Tips Given By The Book CP4
+- ###### The Tips Given By The Book CP4
   - Type Code Faster 
   - Practice and More Practice 
   - Quickly Indentify Problem Types
@@ -29,7 +29,7 @@ STUACM专题笔记+训练日记+提问答疑板块
   - Master the Art of Testing Code
   - Team Work (for IPCP)
 
-- ##### Supporting Resources To The Book CP4
+- ###### Supporting Resources To The Book CP4
   - [Click here to Train typing!](https://www.typingtest.com/)  
   - [Click here to Train Coding!](https://onlinejudge.org/)  
   - [算法可视化](https://visualgo.net/en)
