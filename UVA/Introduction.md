@@ -115,3 +115,15 @@ int main(){
     return 0;    
 }
 ```
+
+
+| Still Easy `(3/3)`                                           |       |                       |
+| ------------------------------------------------------------ | ----- | --------------------- |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/11559) \| [discuss](http://onlinejudge.org/board/search.php?keywords=11559) [11559](http://uva.onlinejudge.org/external/115/11559.pdf) - [Event Planning](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595) | Lev 1 | **`✔ 0.000s/7372`**   |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/11683) \| [discuss](http://onlinejudge.org/board/search.php?keywords=11683) [11683](http://uva.onlinejudge.org/external/116/11683.pdf) - [Laser Sculpture](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2730) | Lev 3 | **`✔ 0.000s/626`**    |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/11786) \| [discuss](http://onlinejudge.org/board/search.php?keywords=11786) [11786](http://uva.onlinejudge.org/external/117/11786.pdf) - [Global Raining at Bididibus](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2886) | Lev 4 | **`✔ 0.000s/89`**     |
+| Medium `(4/4)`                                               |       |                       |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/11507) \| [discuss](http://onlinejudge.org/board/search.php?keywords=11507) [11507](http://uva.onlinejudge.org/external/115/11507.pdf) - [Bender B. Rodríguez Problem](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502) | Lev 2 | **`✔ 0.000s/249(1)`** |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/12157) \| [discuss](http://onlinejudge.org/board/search.php?keywords=12157) [12157](http://uva.onlinejudge.org/external/121/12157.pdf) - [Tariff Plan](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3309) | Lev 2 | **`✔ 0.000s/3879`**   |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/12545) \| [discuss](http://onlinejudge.org/board/search.php?keywords=12545) [12545](http://uva.onlinejudge.org/external/125/12545.pdf) - [Bits Equalizer](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3990) | Lev 4 | **`✔ 0.000s/565`**    |
+| ★ [![img](https://uhunt.onlinejudge.org/images/udebug3.png)](https://www.udebug.com/UVa/12643) \| [discuss](http://onlinejudge.org/board/search.php?keywords=12643) [12643](http://uva.onlinejudge.org/external/126/12643.pdf) - [Tennis Rounds](http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4391) | Lev 4 | **`✔ 0.000s/205`**    |
