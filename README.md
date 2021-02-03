@@ -4,7 +4,7 @@ STUACM专题笔记+训练日记+提问答疑板块
 
 [专题笔记](#专题笔记)
 - [Introduction](https://github.com/TaoistPriestC/STUACM/blob/main/UVA/01-Introduction.md)
-- [Data Structures and Libraries](#DataStructuresAndLibraries)
+- [Data Structures and Libraries](https://github.com/TaoistPriestC/STUACM/blob/main/UVA/02-DataStructuresAndLibraries.md)
 - [Problem Solving Paradigms](#ProblemSolvingParadigms)
 - [Graph](#Graph)
 - [Mathematics](#Mathematics)
