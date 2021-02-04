@@ -1,6 +1,8 @@
 
 #include "bits/stdc++.h"
+#include <iomanip>
 using namespace std;
+
 
 //JAVA风格CPP代码,不包含重复元素BST
 template<typename Elem>
@@ -8,11 +10,15 @@ class BST{
 	//声明内部类结点
 	private:class Node{
 		public:
+		int r;
 		Elem e;
 		Node *left;
 		Node *right;
+		
 
 		Node(Elem e){
+			//rank部分尚未完成，暂留
+			this->r = 0;
 			this->e = e;
 			this->left = NULL;
 			this->right = NULL;
@@ -395,5 +401,33 @@ class BST{
 		return ceil(_root, e)->e;
 	}
 
+	/*
+	//只要rank范围合理，那就不可能找不到
+	private: Node* select(Node *node, size_t rank){
+		if(node!=NULL){
+			if(node->r==rank){
+				return node;
+			}else if(node->r < rank){
+				return select(node->right, rank);
+			}else if(node->r > rank){
+				return select(node->left, rank);
+			}
+		}
+		return NULL;
+	}
+	*/
+
+	/*
+	//用户眼中的排名1-based但是我们眼中的排名0-based
+	public: Elem select(size_t rank){
+		if( rank <= 0 && rank > _size){
+			cerr << "Rank out of index!" << endl;
+			exit(0);
+		}
+		return select(_root, rank - 1)->e;
+	}
+	*/
+
+	//关于node维护rank这个部分尚未完成
 
 };
